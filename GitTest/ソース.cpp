@@ -4,7 +4,9 @@
 int main(void)
 {
 
-	printf("Haragetttttttttttttttttta!!!!");
+	printf("Haragetttttttttttttttttta!!!!\n");
+
+	printf("Hoge----------------------ta");
 
 	return 0;
 
